@@ -33,6 +33,6 @@ liftOverBedpe.py --lift ./liftOver/liftOver --chain ./liftOver/mm9ToMm10.over.ch
 
 ## Additional Resources
 
-You can find the original `liftOverBedpe.py` script on [GitHub](https://github.com/cauyrd/liftOverBedpe/blob/main/liftOverBedpe.py).
+You can find the original `liftOverBedpe.py` script written by Doug Phanstiel on [GitHub](https://github.com/cauyrd/liftOverBedpe/blob/main/liftOverBedpe.py).
 
 For more information about the liftOver tool and how to use it, refer to the [liftOver documentation](https://genome.sph.umich.edu/wiki/LiftOver).
