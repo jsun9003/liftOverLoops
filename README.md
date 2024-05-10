@@ -29,7 +29,7 @@ liftOverBedpe.py --help
 
 ### Example:
 
-liftOverBedpe.py --lift /usr/bin/liftOver --chain ~/mm9ToMm10.over.chain.gz --i input.bedpe --o output.bed --v --h
+liftOverBedpe.py --lift ./liftOver/liftOver --chain ./liftOver/mm9ToMm10.over.chain.gz --i example.mm9.bedpe --o output.mm10.bed --v
 
 ## Additional Resources
 
