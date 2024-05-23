@@ -1,10 +1,10 @@
-# liftOverBedpe
+# liftOverLoops
 
-liftOverBedpe is a Python 3 wrapper for the liftOver tool, allowing users to convert BEDPE files from one genome build to another.
+liftOverLoops is a Python 3 wrapper for the liftOver tool, allowing users to convert BEDPE files from one genome build to another.
 
 ## Prerequisites
 
-To use liftOverBedpe, you'll need the following:
+To use liftOverLoops, you'll need the following:
 
 - [liftOver](https://genome.sph.umich.edu/wiki/LiftOver)
 - A liftOver chain file
